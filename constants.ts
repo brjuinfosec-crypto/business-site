@@ -11,45 +11,41 @@ export const NAV_LINKS: NavLinkInfo[] = [
 
 export const SERVICES_LIST: Service[] = [
   {
-    icon: ShieldCheck,
-    title: 'Cybersecurity',
-    description: 'State-of-the-art security solutions to protect your digital assets against evolving threats.',
-  },
-  {
-    icon: BrainCircuit,
-    title: 'AI Eco System',
-    description: 'Developing intelligent systems and AI-driven platforms to automate and optimize business processes.',
-  },
-  {
-    icon: Code,
-    title: 'Web Development',
-    description: 'Crafting bespoke, high-performance websites and web applications with modern technologies.',
-  },
-  {
-    icon: Bot,
-    title: 'AI Agents',
-    description: 'We build custom AI agents tailored to your business needs and design automation workflows that streamline processes, and boost efficiency.',
-  },
-  {
-    icon: Smartphone,
-    title: 'Android/IOS Apps',
-    description: 'Building intuitive and powerful mobile applications for both Android and iOS platforms.',
-  },
-  {
-    icon: Cloud,
-    title: 'Cloud Computing',
-    description: 'Leveraging cloud infrastructure for scalable, reliable, and cost-effective business operations.',
-  },
-  {
-    icon: Blocks,
-    title: 'SAP Solution',
-    description: 'Implementing and managing SAP systems to streamline enterprise resource planning.',
-  },
-  {
-    icon: BrainCircuit,
-    title: 'AI Integration',
-    description: 'Seamlessly integrating artificial intelligence into your existing systems to unlock new capabilities.',
-  },
+  icon: ShieldCheck,
+  title: 'Cybersecurity',
+  description: 'State-of-the-art security solutions to protect your digital assets against evolving threats.',
+},
+{
+  icon: BrainCircuit,
+  title: 'AI Solutions',
+  description: 'Developing intelligent systems, integrating AI into your operations, and building platforms that automate and optimize business processes.',
+},
+{
+  icon: Code,
+  title: 'Web Development',
+  description: 'Crafting bespoke, high-performance websites and web applications with modern technologies.',
+},
+{
+  icon: Bot,
+  title: 'AI Agents',
+  description: 'We build custom AI agents tailored to your business needs and design automation workflows that streamline processes and boost efficiency.',
+},
+{
+  icon: Smartphone,
+  title: 'Android/IOS Apps',
+  description: 'Building intuitive and powerful mobile applications for both Android and iOS platforms.',
+},
+{
+  icon: Cloud,
+  title: 'Cloud Computing',
+  description: 'Leveraging cloud infrastructure for scalable, reliable, and cost-effective business operations.',
+},
+{
+  icon: Blocks,
+  title: 'SAP Solution',
+  description: 'Implementing and managing SAP systems to streamline enterprise resource planning.',
+}
+
 ];
 
 export const COMPANY_TIMELINE: TimelineEventData[] = [
